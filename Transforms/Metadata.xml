@@ -1,0 +1,8 @@
+﻿<metadata>
+    <attr path="/api/package[@name='retrofit2']"
+          name="managedName" >Retrofit2</attr>
+    <attr path="/api/package[@name='retrofit2.http']"
+          name="managedName" >Retrofit2.Http</attr>
+    <attr path="/api/package[@name='retrofit2.internal']"
+          name="managedName" >Retrofit2.Internal</attr>
+</metadata>
